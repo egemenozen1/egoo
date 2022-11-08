@@ -1,0 +1,2 @@
+# egoo
+REPO_ACIKLAMASI
